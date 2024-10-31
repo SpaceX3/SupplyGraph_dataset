@@ -1,0 +1,503 @@
+u,v,type
+AT5X5K,1911,Product-Plant
+AT5X5K,1921,Product-Plant
+AT5X5K,1916,Product-Plant
+AT5X5K,1915,Product-Plant
+AT5X5K,1922,Product-Plant
+AT5X5K,1912,Product-Plant
+AT5X5K,1903,Product-Plant
+AT5X5K,1914,Product-Plant
+AT5X5K,1918,Product-Plant
+AT5X5K,1919,Product-Plant
+AT5X5K,2030,Product-Storage Location
+AT5X5K,1130,Product-Storage Location
+AT5X5K,2130,Product-Storage Location
+AT5X5K,1630,Product-Storage Location
+AT5X5K,1530,Product-Storage Location
+AT5X5K,2230,Product-Storage Location
+AT5X5K,1230,Product-Storage Location
+AT5X5K,330,Product-Storage Location
+AT5X5K,1430,Product-Storage Location
+AT5X5K,1730,Product-Storage Location
+AT5X5K,1830,Product-Storage Location
+AT5X5K,1930,Product-Storage Location
+ATN01K24P,1920,Product-Plant
+ATN01K24P,1911,Product-Plant
+ATN01K24P,1921,Product-Plant
+ATN01K24P,1917,Product-Plant
+ATN01K24P,1916,Product-Plant
+ATN01K24P,1918,Product-Plant
+ATN01K24P,1919,Product-Plant
+ATN01K24P,1915,Product-Plant
+ATN01K24P,1912,Product-Plant
+ATN01K24P,1922,Product-Plant
+ATN01K24P,1914,Product-Plant
+ATN01K24P,1903,Product-Plant
+ATN01K24P,1901,Product-Plant
+ATN01K24P,2030,Product-Storage Location
+ATN01K24P,1130,Product-Storage Location
+ATN01K24P,2130,Product-Storage Location
+ATN01K24P,1730,Product-Storage Location
+ATN01K24P,1830,Product-Storage Location
+ATN01K24P,1930,Product-Storage Location
+ATN01K24P,1530,Product-Storage Location
+ATN01K24P,1230,Product-Storage Location
+ATN01K24P,2230,Product-Storage Location
+ATN01K24P,330,Product-Storage Location
+ATN02K12P,1920,Product-Plant
+ATN02K12P,1911,Product-Plant
+ATN02K12P,1921,Product-Plant
+ATN02K12P,1918,Product-Plant
+ATN02K12P,1912,Product-Plant
+ATN02K12P,1922,Product-Plant
+ATN02K12P,1916,Product-Plant
+ATN02K12P,1917,Product-Plant
+ATN02K12P,1903,Product-Plant
+ATN02K12P,2030,Product-Storage Location
+ATN02K12P,1130,Product-Storage Location
+ATN02K12P,2130,Product-Storage Location
+ATN02K12P,1830,Product-Storage Location
+ATN02K12P,1230,Product-Storage Location
+ATN02K12P,2230,Product-Storage Location
+ATN02K12P,1730,Product-Storage Location
+ATPA1K24P,1911,Product-Plant
+ATPA1K24P,1130,Product-Storage Location
+ATPPCH5X5K,1920,Product-Plant
+ATPPCH5X5K,2030,Product-Storage Location
+ATWWP001K24P,1920,Product-Plant
+ATWWP001K24P,1911,Product-Plant
+ATWWP001K24P,1921,Product-Plant
+ATWWP001K24P,1917,Product-Plant
+ATWWP001K24P,1915,Product-Plant
+ATWWP001K24P,1918,Product-Plant
+ATWWP001K24P,1914,Product-Plant
+ATWWP001K24P,1912,Product-Plant
+ATWWP001K24P,1901,Product-Plant
+ATWWP001K24P,2030,Product-Storage Location
+ATWWP001K24P,1130,Product-Storage Location
+ATWWP001K24P,2130,Product-Storage Location
+ATWWP001K24P,1730,Product-Storage Location
+ATWWP001K24P,1430,Product-Storage Location
+ATWWP001K24P,1530,Product-Storage Location
+ATWWP001K24P,1830,Product-Storage Location
+ATWWP001K24P,1230,Product-Storage Location
+ATWWP001K24P,130,Product-Storage Location
+ATWWP002K12P,2030,Product-Storage Location
+EEA200G24P,2120,Product-Plant
+EEA200G24P,1920,Product-Plant
+EEA200G24P,2030,Product-Storage Location
+EEA200G24P,1130,Product-Storage Location
+EEA500G12P,2120,Product-Plant
+EEA500G12P,1920,Product-Plant
+EEA500G12P,2030,Product-Storage Location
+EEA500G12P,1130,Product-Storage Location
+MAC1K25P,1915,Product-Plant
+MAC1K25P,1530,Product-Storage Location
+MAHS025K,1920,Product-Plant
+MAHS025K,1919,Product-Plant
+MAHS025K,1922,Product-Plant
+MAHS025K,1914,Product-Plant
+MAHS025K,2030,Product-Storage Location
+MAHS025K,1430,Product-Storage Location
+MAHS025K,1930,Product-Storage Location
+MAHS025K,2230,Product-Storage Location
+MAP1K25P,1911,Product-Plant
+MAPA1K24P,1915,Product-Plant
+MAPA1K24P,1530,Product-Storage Location
+MAR01K24P,1920,Product-Plant
+MAR01K24P,1911,Product-Plant
+MAR01K24P,1915,Product-Plant
+MAR01K24P,1919,Product-Plant
+MAR01K24P,1921,Product-Plant
+MAR01K24P,1914,Product-Plant
+MAR01K24P,1922,Product-Plant
+MAR01K24P,1912,Product-Plant
+MAR01K24P,1903,Product-Plant
+MAR01K24P,1916,Product-Plant
+MAR01K24P,2030,Product-Storage Location
+MAR01K24P,1130,Product-Storage Location
+MAR01K24P,1530,Product-Storage Location
+MAR01K24P,1830,Product-Storage Location
+MAR01K24P,1930,Product-Storage Location
+MAR01K24P,2130,Product-Storage Location
+MAR01K24P,1430,Product-Storage Location
+MAR01K24P,2230,Product-Storage Location
+MAR01K24P,1230,Product-Storage Location
+MAR01K24P,1730,Product-Storage Location
+MAR01K24P,1630,Product-Storage Location
+MAR02K12P,1911,Product-Plant
+MAR02K12P,1912,Product-Plant
+MAR02K12P,1903,Product-Plant
+MAR02K12P,1130,Product-Storage Location
+MAR02K12P,1230,Product-Storage Location
+MAR02K12P,330,Product-Storage Location
+MASR025K,1920,Product-Plant
+MASR025K,1911,Product-Plant
+MASR025K,1912,Product-Plant
+MASR025K,1914,Product-Plant
+MASR025K,1903,Product-Plant
+MASR025K,2030,Product-Storage Location
+MASR025K,1130,Product-Storage Location
+MASR025K,1430,Product-Storage Location
+MASR025K,1930,Product-Storage Location
+MASR025K,1230,Product-Storage Location
+MASR025K,330,Product-Storage Location
+POP001L12P,2120,Product-Plant
+POP001L12P,2116,Product-Plant
+POP001L12P,2121,Product-Plant
+POP001L12P,2117,Product-Plant
+POP001L12P,2112,Product-Plant
+POP001L12P,2115,Product-Plant
+POP001L12P,2119,Product-Plant
+POP001L12P,2118,Product-Plant
+POP001L12P,2114,Product-Plant
+POP001L12P,2103,Product-Plant
+POP001L12P,2122,Product-Plant
+POP001L12P,2030,Product-Storage Location
+POP001L12P,1630,Product-Storage Location
+POP001L12P,2130,Product-Storage Location
+POP001L12P,1730,Product-Storage Location
+POP001L12P,1230,Product-Storage Location
+POP001L12P,1530,Product-Storage Location
+POP001L12P,1930,Product-Storage Location
+POP001L12P,1830,Product-Storage Location
+POP001L12P,1430,Product-Storage Location
+POP001L12P,1130,Product-Storage Location
+POP001L12P,330,Product-Storage Location
+POP001L12P,2230,Product-Storage Location
+POP002L09P,2120,Product-Plant
+POP002L09P,2121,Product-Plant
+POP002L09P,2118,Product-Plant
+POP002L09P,2112,Product-Plant
+POP002L09P,2103,Product-Plant
+POP002L09P,2116,Product-Plant
+POP002L09P,2117,Product-Plant
+POP002L09P,2115,Product-Plant
+POP002L09P,2114,Product-Plant
+POP002L09P,2119,Product-Plant
+POP002L09P,2122,Product-Plant
+POP002L09P,2030,Product-Storage Location
+POP002L09P,2130,Product-Storage Location
+POP002L09P,1830,Product-Storage Location
+POP002L09P,1230,Product-Storage Location
+POP002L09P,330,Product-Storage Location
+POP002L09P,1630,Product-Storage Location
+POP002L09P,1730,Product-Storage Location
+POP002L09P,1530,Product-Storage Location
+POP002L09P,1430,Product-Storage Location
+POP002L09P,1930,Product-Storage Location
+POP002L09P,2230,Product-Storage Location
+POP005L04P,2120,Product-Plant
+POP005L04P,2121,Product-Plant
+POP005L04P,2117,Product-Plant
+POP005L04P,2114,Product-Plant
+POP005L04P,2116,Product-Plant
+POP005L04P,2103,Product-Plant
+POP005L04P,2112,Product-Plant
+POP005L04P,2030,Product-Storage Location
+POP005L04P,2130,Product-Storage Location
+POP005L04P,1730,Product-Storage Location
+POP005L04P,1430,Product-Storage Location
+POP005L04P,1630,Product-Storage Location
+POP005L04P,1530,Product-Storage Location
+POP005L04P,330,Product-Storage Location
+POP005L04P,1230,Product-Storage Location
+POP015K,2030,Product-Storage Location
+POP500M24P,2120,Product-Plant
+POP500M24P,2116,Product-Plant
+POP500M24P,2115,Product-Plant
+POP500M24P,2112,Product-Plant
+POP500M24P,2117,Product-Plant
+POP500M24P,2118,Product-Plant
+POP500M24P,2114,Product-Plant
+POP500M24P,2103,Product-Plant
+POP500M24P,2111,Product-Plant
+POP500M24P,2122,Product-Plant
+POP500M24P,2121,Product-Plant
+POP500M24P,1630,Product-Storage Location
+POP500M24P,1530,Product-Storage Location
+POP500M24P,1830,Product-Storage Location
+POP500M24P,1430,Product-Storage Location
+POP500M24P,330,Product-Storage Location
+POP500M24P,1130,Product-Storage Location
+POP500M24P,2230,Product-Storage Location
+POP500M24P,2130,Product-Storage Location
+POPF01L12P,2121,Product-Plant
+POPF01L12P,2118,Product-Plant
+POPF01L12P,2103,Product-Plant
+POPF01L12P,2130,Product-Storage Location
+POPF01L12P,1830,Product-Storage Location
+POPF01L12P,330,Product-Storage Location
+POPF01L12P,1530,Product-Storage Location
+POV001L24P,2120,Product-Plant
+POV001L24P,2114,Product-Plant
+POV001L24P,2118,Product-Plant
+POV001L24P,2119,Product-Plant
+POV001L24P,2115,Product-Plant
+POV001L24P,2122,Product-Plant
+POV001L24P,2112,Product-Plant
+POV001L24P,2103,Product-Plant
+POV001L24P,2116,Product-Plant
+POV001L24P,2111,Product-Plant
+POV001L24P,2117,Product-Plant
+POV001L24P,2030,Product-Storage Location
+POV001L24P,1430,Product-Storage Location
+POV001L24P,1830,Product-Storage Location
+POV001L24P,1930,Product-Storage Location
+POV001L24P,2230,Product-Storage Location
+POV001L24P,330,Product-Storage Location
+POV001L24P,2130,Product-Storage Location
+POV001L24P,1630,Product-Storage Location
+POV001L24P,1130,Product-Storage Location
+POV001L24P,1730,Product-Storage Location
+POV002L09P,2120,Product-Plant
+POV002L09P,2122,Product-Plant
+POV002L09P,2114,Product-Plant
+POV002L09P,2116,Product-Plant
+POV002L09P,2103,Product-Plant
+POV002L09P,2121,Product-Plant
+POV002L09P,2112,Product-Plant
+POV002L09P,2117,Product-Plant
+POV002L09P,2115,Product-Plant
+POV002L09P,2111,Product-Plant
+POV002L09P,2119,Product-Plant
+POV002L09P,2030,Product-Storage Location
+POV002L09P,2230,Product-Storage Location
+POV002L09P,1430,Product-Storage Location
+POV002L09P,1630,Product-Storage Location
+POV002L09P,2130,Product-Storage Location
+POV002L09P,1230,Product-Storage Location
+POV002L09P,1830,Product-Storage Location
+POV002L09P,1730,Product-Storage Location
+POV002L09P,1530,Product-Storage Location
+POV002L09P,1130,Product-Storage Location
+POV002L09P,1930,Product-Storage Location
+POV005L04P,2120,Product-Plant
+POV005L04P,2121,Product-Plant
+POV005L04P,2117,Product-Plant
+POV005L04P,2114,Product-Plant
+POV005L04P,2119,Product-Plant
+POV005L04P,2116,Product-Plant
+POV005L04P,2118,Product-Plant
+POV005L04P,2112,Product-Plant
+POV005L04P,2115,Product-Plant
+POV005L04P,2103,Product-Plant
+POV005L04P,2030,Product-Storage Location
+POV005L04P,2130,Product-Storage Location
+POV005L04P,1730,Product-Storage Location
+POV005L04P,1430,Product-Storage Location
+POV005L04P,1930,Product-Storage Location
+POV005L04P,1630,Product-Storage Location
+POV005L04P,1830,Product-Storage Location
+POV005L04P,1230,Product-Storage Location
+POV005L04P,1530,Product-Storage Location
+POV005L04P,330,Product-Storage Location
+POV500M24P,2120,Product-Plant
+POV500M24P,2116,Product-Plant
+POV500M24P,2117,Product-Plant
+POV500M24P,2115,Product-Plant
+POV500M24P,2121,Product-Plant
+POV500M24P,2122,Product-Plant
+POV500M24P,2103,Product-Plant
+POV500M24P,2119,Product-Plant
+POV500M24P,2030,Product-Storage Location
+POV500M24P,1630,Product-Storage Location
+POV500M24P,1730,Product-Storage Location
+POV500M24P,1230,Product-Storage Location
+POV500M24P,1530,Product-Storage Location
+POV500M24P,2130,Product-Storage Location
+POV500M24P,1430,Product-Storage Location
+POV500M24P,2230,Product-Storage Location
+POV500M24P,1830,Product-Storage Location
+POV500M24P,1930,Product-Storage Location
+SE200G24P,1920,Product-Plant
+SE200G24P,1919,Product-Plant
+SE200G24P,1915,Product-Plant
+SE200G24P,1903,Product-Plant
+SE200G24P,1918,Product-Plant
+SE200G24P,2030,Product-Storage Location
+SE200G24P,1530,Product-Storage Location
+SE200G24P,1430,Product-Storage Location
+SE200G24P,330,Product-Storage Location
+SE200G24P,1830,Product-Storage Location
+SE500G24P,1920,Product-Plant
+SE500G24P,1911,Product-Plant
+SE500G24P,1916,Product-Plant
+SE500G24P,1921,Product-Plant
+SE500G24P,1912,Product-Plant
+SE500G24P,1919,Product-Plant
+SE500G24P,1922,Product-Plant
+SE500G24P,1918,Product-Plant
+SE500G24P,1903,Product-Plant
+SE500G24P,1915,Product-Plant
+SE500G24P,1914,Product-Plant
+SE500G24P,2030,Product-Storage Location
+SE500G24P,1130,Product-Storage Location
+SE500G24P,1630,Product-Storage Location
+SE500G24P,2130,Product-Storage Location
+SE500G24P,1230,Product-Storage Location
+SE500G24P,1930,Product-Storage Location
+SE500G24P,2230,Product-Storage Location
+SE500G24P,1830,Product-Storage Location
+SE500G24P,330,Product-Storage Location
+SE500G24P,1530,Product-Storage Location
+SE500G24P,1730,Product-Storage Location
+SE500G24P,1430,Product-Storage Location
+SO0001L12P,2119,Product-Plant
+SO0001L12P,1930,Product-Storage Location
+SO0002L09P,2119,Product-Plant
+SO0002L09P,1930,Product-Storage Location
+SO0005L04P,2119,Product-Plant
+SO0005L04P,1930,Product-Storage Location
+SO0500M24P,2114,Product-Plant
+SO0500M24P,1430,Product-Storage Location
+SOP001L12P,2111,Product-Plant
+SOP001L12P,2121,Product-Plant
+SOP001L12P,2117,Product-Plant
+SOP001L12P,2114,Product-Plant
+SOP001L12P,2115,Product-Plant
+SOP001L12P,2103,Product-Plant
+SOP001L12P,1130,Product-Storage Location
+SOP001L12P,2130,Product-Storage Location
+SOP001L12P,1430,Product-Storage Location
+SOP001L12P,1530,Product-Storage Location
+SOP001L12P,330,Product-Storage Location
+SOS001L12P,2120,Product-Plant
+SOS001L12P,2117,Product-Plant
+SOS001L12P,2119,Product-Plant
+SOS001L12P,2116,Product-Plant
+SOS001L12P,2114,Product-Plant
+SOS001L12P,2112,Product-Plant
+SOS001L12P,2115,Product-Plant
+SOS001L12P,2121,Product-Plant
+SOS001L12P,2118,Product-Plant
+SOS001L12P,2103,Product-Plant
+SOS001L12P,2122,Product-Plant
+SOS001L12P,2030,Product-Storage Location
+SOS001L12P,1130,Product-Storage Location
+SOS001L12P,1930,Product-Storage Location
+SOS001L12P,1630,Product-Storage Location
+SOS001L12P,1430,Product-Storage Location
+SOS001L12P,1230,Product-Storage Location
+SOS001L12P,1530,Product-Storage Location
+SOS001L12P,2130,Product-Storage Location
+SOS001L12P,1830,Product-Storage Location
+SOS001L12P,330,Product-Storage Location
+SOS001L12P,2230,Product-Storage Location
+SOS002L09P,2120,Product-Plant
+SOS002L09P,2111,Product-Plant
+SOS002L09P,2121,Product-Plant
+SOS002L09P,2119,Product-Plant
+SOS002L09P,2117,Product-Plant
+SOS002L09P,2112,Product-Plant
+SOS002L09P,2118,Product-Plant
+SOS002L09P,2115,Product-Plant
+SOS002L09P,2103,Product-Plant
+SOS002L09P,2122,Product-Plant
+SOS002L09P,2030,Product-Storage Location
+SOS002L09P,1130,Product-Storage Location
+SOS002L09P,2130,Product-Storage Location
+SOS002L09P,1930,Product-Storage Location
+SOS002L09P,1430,Product-Storage Location
+SOS002L09P,1730,Product-Storage Location
+SOS002L09P,1230,Product-Storage Location
+SOS002L09P,330,Product-Storage Location
+SOS002L09P,2230,Product-Storage Location
+SOS002L09P,1630,Product-Storage Location
+SOS003L04P,2120,Product-Plant
+SOS003L04P,2111,Product-Plant
+SOS003L04P,2121,Product-Plant
+SOS003L04P,2117,Product-Plant
+SOS003L04P,2114,Product-Plant
+SOS003L04P,2119,Product-Plant
+SOS003L04P,2116,Product-Plant
+SOS003L04P,2118,Product-Plant
+SOS003L04P,2103,Product-Plant
+SOS003L04P,2115,Product-Plant
+SOS003L04P,2112,Product-Plant
+SOS003L04P,2122,Product-Plant
+SOS003L04P,1130,Product-Storage Location
+SOS003L04P,2130,Product-Storage Location
+SOS003L04P,1730,Product-Storage Location
+SOS003L04P,1430,Product-Storage Location
+SOS003L04P,1930,Product-Storage Location
+SOS003L04P,1630,Product-Storage Location
+SOS003L04P,1830,Product-Storage Location
+SOS003L04P,330,Product-Storage Location
+SOS003L04P,1530,Product-Storage Location
+SOS003L04P,1230,Product-Storage Location
+SOS003L04P,2230,Product-Storage Location
+SOS005L04P,2120,Product-Plant
+SOS005L04P,2111,Product-Plant
+SOS005L04P,2121,Product-Plant
+SOS005L04P,2119,Product-Plant
+SOS005L04P,2114,Product-Plant
+SOS005L04P,2116,Product-Plant
+SOS005L04P,2112,Product-Plant
+SOS005L04P,2117,Product-Plant
+SOS005L04P,2115,Product-Plant
+SOS005L04P,2103,Product-Plant
+SOS005L04P,2118,Product-Plant
+SOS005L04P,2030,Product-Storage Location
+SOS005L04P,1130,Product-Storage Location
+SOS005L04P,2130,Product-Storage Location
+SOS005L04P,1930,Product-Storage Location
+SOS005L04P,1630,Product-Storage Location
+SOS005L04P,1730,Product-Storage Location
+SOS005L04P,1530,Product-Storage Location
+SOS005L04P,330,Product-Storage Location
+SOS005L04P,1830,Product-Storage Location
+SOS005L04P,2230,Product-Storage Location
+SOS008L02P,2120,Product-Plant
+SOS008L02P,2111,Product-Plant
+SOS008L02P,2119,Product-Plant
+SOS008L02P,2112,Product-Plant
+SOS008L02P,2103,Product-Plant
+SOS008L02P,2122,Product-Plant
+SOS008L02P,2121,Product-Plant
+SOS008L02P,2115,Product-Plant
+SOS008L02P,2117,Product-Plant
+SOS008L02P,2030,Product-Storage Location
+SOS008L02P,1130,Product-Storage Location
+SOS008L02P,1430,Product-Storage Location
+SOS008L02P,1930,Product-Storage Location
+SOS008L02P,1230,Product-Storage Location
+SOS008L02P,330,Product-Storage Location
+SOS008L02P,2230,Product-Storage Location
+SOS008L02P,2130,Product-Storage Location
+SOS008L02P,1530,Product-Storage Location
+SOS008L02P,1730,Product-Storage Location
+SOS250M48P,2120,Product-Plant
+SOS250M48P,2111,Product-Plant
+SOS250M48P,2117,Product-Plant
+SOS250M48P,2114,Product-Plant
+SOS250M48P,2119,Product-Plant
+SOS250M48P,2112,Product-Plant
+SOS250M48P,2115,Product-Plant
+SOS250M48P,2030,Product-Storage Location
+SOS250M48P,1430,Product-Storage Location
+SOS250M48P,1930,Product-Storage Location
+SOS250M48P,1230,Product-Storage Location
+SOS250M48P,1530,Product-Storage Location
+SOS500M24P,2120,Product-Plant
+SOS500M24P,2111,Product-Plant
+SOS500M24P,2119,Product-Plant
+SOS500M24P,2114,Product-Plant
+SOS500M24P,2112,Product-Plant
+SOS500M24P,2117,Product-Plant
+SOS500M24P,2115,Product-Plant
+SOS500M24P,2116,Product-Plant
+SOS500M24P,2121,Product-Plant
+SOS500M24P,2118,Product-Plant
+SOS500M24P,2122,Product-Plant
+SOS500M24P,2030,Product-Storage Location
+SOS500M24P,1130,Product-Storage Location
+SOS500M24P,1930,Product-Storage Location
+SOS500M24P,1430,Product-Storage Location
+SOS500M24P,1230,Product-Storage Location
+SOS500M24P,1730,Product-Storage Location
+SOS500M24P,1530,Product-Storage Location
+SOS500M24P,330,Product-Storage Location
+SOS500M24P,2130,Product-Storage Location
+SOS500M24P,1830,Product-Storage Location
+SOS500M24P,2230,Product-Storage Location
