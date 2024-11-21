@@ -1,0 +1,51 @@
+u,v,type
+AT5X5K,1901,Product-Plant
+ATN02K12P,1914,Product-Plant
+ATN02K12P,1915,Product-Plant
+ATPA1K24P,1914,Product-Plant
+ATPA1K24P,1915,Product-Plant
+ATPA1K24P,1916,Product-Plant
+ATWWP001K24P,1903,Product-Plant
+ATWWP001K24P,1916,Product-Plant
+ATWWP001K24P,1922,Product-Plant
+MAPA1K24P,1922,Product-Plant
+MASR025K,1915,Product-Plant
+POP001L12P,1917,Product-Plant
+POP002L09P,1911,Product-Plant
+POP005L04P,2118,Product-Plant
+POV005L04P,2111,Product-Plant
+POV500M24P,1903,Product-Plant
+SE200G24P,2121,Product-Plant
+SO0001L12P,2111,Product-Plant
+SOP001L12P,1916,Product-Plant
+SOS002L09P,1903,Product-Plant
+SOS002L09P,1920,Product-Plant
+SOS250M48P,2103,Product-Plant
+SOS250M48P,1922,Product-Plant
+SOS500M24P,1919,Product-Plant
+AT5X5K,130,Product-Storage Location
+ATN02K12P,1430,Product-Storage Location
+ATN02K12P,1530,Product-Storage Location
+ATPA1K24P,1830,Product-Storage Location
+ATWWP001K24P,330,Product-Storage Location
+ATWWP001K24P,2230,Product-Storage Location
+EEA200G24P,1430,Product-Storage Location
+EEA200G24P,1530,Product-Storage Location
+MAHS025K,1130,Product-Storage Location
+MAHS025K,1730,Product-Storage Location
+POP002L09P,1130,Product-Storage Location
+POP005L04P,1830,Product-Storage Location
+POP015K,130,Product-Storage Location
+POPF01L12P,1430,Product-Storage Location
+SE200G24P,1630,Product-Storage Location
+SE200G24P,1730,Product-Storage Location
+SE200G24P,2130,Product-Storage Location
+SE200G24P,2230,Product-Storage Location
+SO0001L12P,2130,Product-Storage Location
+SO0001L12P,2230,Product-Storage Location
+SOP001L12P,1830,Product-Storage Location
+SOP001L12P,1930,Product-Storage Location
+SOP001L12P,2030,Product-Storage Location
+SOS001L12P,130,Product-Storage Location
+SOS250M48P,2230,Product-Storage Location
+SOS500M24P,130,Product-Storage Location
